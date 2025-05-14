@@ -39,22 +39,22 @@ const winnersData = {
         },
         {
             name: "Ahmed Zewail",
-            image: "./images/ahmed zewail.jpg",
+            image: "./images/Ahmed Zewail.jpg",
             description: "Ahmed Zewail won the Nobel Prize in Chemistry in 1999 for his pioneering work in femtochemistry, which uses ultrafast laser techniques to observe chemical reactions on the timescale of femtoseconds. His ability to capture the motion of atoms during reactions provided unprecedented insights into molecular dynamics, revolutionizing the study of chemical processes."
         },
         {
             name: "Dorothy Hodgkin",
-            image: "./images/dorothy hodgkin.jpg",
+            image: "./images/Dorothy Hodgkin.jpg",
             description: "Dorothy Hodgkin received the Nobel Prize in Chemistry in 1964 for her development of X-ray crystallography techniques to determine the structures of complex biochemical molecules, including penicillin and vitamin B12. Her work enabled significant advances in biochemistry and medicine, and as one of the few women Nobel laureates in science, she inspired generations of researchers."
         },
         {
             name: "Robert H. Grubbs",
-            image: "./images/robert%20grubbs.webp",
+            image: "./images/Robert Grubbs.webp",
             description: "Robert H. Grubbs won the Nobel Prize in Chemistry in 2005, shared with Yves Chauvin and Richard R. Schrock, for developing the metathesis method in organic synthesis. This catalytic process allows for the efficient rearrangement of carbon-carbon bonds, transforming the synthesis of pharmaceuticals, plastics, and other materials with wide industrial applications."
         },
         {
             name: "Benjamin List",
-            image: "./images/benjamin list.jpg",
+            image: "./images/Benjamin List.jpg",
             description: "Benjamin List was awarded the Nobel Prize in Chemistry in 2021, shared with David W.C. MacMillan, for developing asymmetric organocatalysis. This innovative approach uses small organic molecules as catalysts to produce chiral molecules with high precision, significantly impacting pharmaceutical development and green chemistry by offering efficient, environmentally friendly synthesis methods."
         },
         {
@@ -76,7 +76,7 @@ const winnersData = {
         },
         {
             name: "Tu Youyou",
-            image: "./images/Tu youyou.jpg",
+            image: "./images/Tu Youyou.jpg",
             description: "Tu Youyou won the Nobel Prize in Physiology or Medicine in 2015 for her discovery of artemisinin, a highly effective antimalarial drug. Inspired by traditional Chinese medicine, her work led to a treatment that has saved millions of lives, particularly in developing countries, demonstrating the value of integrating traditional and modern scientific approaches."
         },
         {
@@ -140,7 +140,7 @@ const winnersData = {
         },
         {
             name: "Martin Luther King Jr.",
-            image: "./images/martin luther king jr..jpg",
+            image: "./images/Martin Luther King Jr.jpg",
             description: "Martin Luther King Jr. won the Nobel Peace Prize in 1964 for his nonviolent leadership in the American Civil Rights Movement. His iconic *I Have a Dream* speech and tireless fight against racial segregation and inequality inspired global movements for justice and equality, leaving a lasting legacy."
         },
         {
@@ -150,7 +150,7 @@ const winnersData = {
         },
         {
             name: "Barack Obama",
-            image: "./images/barack obama.jpg",
+            image: "./images/Barack Obama.jpg",
             description: "Barack Obama was awarded the Nobel Peace Prize in 2009 for his efforts to strengthen international diplomacy and promote global cooperation. As U.S. President, his initiatives on nuclear disarmament, climate change, and multilateral engagement aimed to foster peace and address global challenges, sparking both praise and debate."
         },
         {
